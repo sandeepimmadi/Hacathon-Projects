@@ -7,4 +7,10 @@ In the survey, a passenger was explicitly asked whether they were delighted with
 
 The objective of this exercise is to understand which parameters play an important role in swaying passenger feedback towards a positive scale. You are provided test data containing Travel data and Survey data of passengers. Both the test data and the train data are collected at the same time and belongs to the same company.
 # Problem Description(Mcdonalds Competition)
-
+Please answer the following questions based on Mcdonald CSV
+Plot graphically which food categories have the highest and lowest varieties.
+Which all variables have an outlier?
+Which variables have the highest correlation? Plot them and find out the value?
+Which category contributes to the maximum % of Cholesterol in a diet (% daily value)?
+Which item contributes maximum to the Sodium intake?
+Which 4 food items contain the most amount of Saturated Fat?
